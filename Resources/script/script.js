@@ -52,3 +52,4 @@ alert (`O seu número é: ${ resultado }`)
 // });
 
 // alert(`Funcionário nº ${numero} ganha ${salarioEmReais}`);
+glngkhg
